@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="3990" started-at="2020-08-06T00:07:07 EDT" finished-at="2020-08-06T00:07:11 EDT">
+  <suite name="Suite" duration-ms="3524" started-at="2020-08-08T22:43:13 EDT" finished-at="2020-08-08T22:43:17 EDT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="3990" started-at="2020-08-06T00:07:07 EDT" finished-at="2020-08-06T00:07:11 EDT">
+    <test name="Test" duration-ms="3524" started-at="2020-08-08T22:43:13 EDT" finished-at="2020-08-08T22:43:17 EDT">
       <class name="Demo.Notepad">
-        <test-method status="PASS" signature="setup()[pri:0, instance:Demo.Notepad@25bbe1b6]" name="setup" duration-ms="270" started-at="2020-08-06T00:07:11 EDT" finished-at="2020-08-06T00:07:11 EDT">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Demo.Notepad@ff5b51f]" name="setup" duration-ms="231" started-at="2020-08-08T22:43:17 EDT" finished-at="2020-08-08T22:43:17 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
       </class> <!-- Demo.Notepad -->
       <class name="Demo.Calc">
-        <test-method status="PASS" signature="setup()[pri:0, instance:Demo.Calc@ff5b51f]" name="setup" duration-ms="3682" started-at="2020-08-06T00:07:07 EDT" finished-at="2020-08-06T00:07:11 EDT">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Demo.Calc@1ed4004b]" name="setup" duration-ms="3253" started-at="2020-08-08T22:43:13 EDT" finished-at="2020-08-08T22:43:17 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
